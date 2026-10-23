@@ -3,3 +3,5 @@
 @media(max-width:720px){.overnight-minimal .flow{flex-direction:column}.overnight-minimal .flowbox{width:100%}.overnight-minimal .arrow{transform:rotate(90deg)}}
 
 .lakehouse-stack{display:grid;gap:12px;max-width:620px;margin:auto}.lakehouse-stack .flowbox:nth-child(3){background:#e1e9d0}.lakehouse-stack .flowbox:nth-child(4){background:#d6e1bd}
+
+.further{margin:30px 0;padding:18px 22px;border:1px solid var(--line);border-radius:7px;background:#f6f6ef}.further summary{cursor:pointer;font-size:14px;font-weight:600}.further[open] summary{margin-bottom:20px}
